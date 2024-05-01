@@ -1,0 +1,18 @@
+body    {
+        background-image: url('Image.jpg');
+        background-size: 100%;
+        color: blue;
+        font-size: x-large; 
+        }
+
+.p1     {
+        font-family: Arial, sans-serif; 
+        }
+
+.p3     {
+        color: purple 
+        }
+
+#hidden {
+        display: none;
+        }
